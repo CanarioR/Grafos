@@ -1,0 +1,29 @@
+
+ID: 90
+Posicion x:2
+Posicion y: 3
+Red: 1
+Green: 22
+Blue: 123
+Voltaje: 11.000000
+ID: 33
+Posicion x:40
+Posicion y: 40
+Red: 111
+Green: 111
+Blue: 111
+Voltaje: 12.000000
+ID: 22
+Posicion x:21
+Posicion y: 21
+Red: 222
+Green: 2
+Blue: 2
+Voltaje: 222.000000
+ID: 1
+Posicion x:111
+Posicion y: 111
+Red: 12
+Green: 12
+Blue: 222
+Voltaje: 11.000000
